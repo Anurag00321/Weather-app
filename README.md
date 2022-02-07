@@ -14,4 +14,12 @@ I wanted to learn how to fetch api and that's why I created this project.
 
 ## Features
 
-* 
+* Check weather of any location.
+
+### Features I want to add
+
+* Icons for specific weather conditions 
+
+## Demo
+
+
