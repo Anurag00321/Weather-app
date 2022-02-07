@@ -22,4 +22,4 @@ I wanted to learn how to fetch api and that's why I created this project.
 
 ## Demo
 
-
+* Take a demo - https://anurag00321.github.io/Weather-app/
